@@ -1,6 +1,6 @@
 {
-  "name": "px2remplus-loader",
-  "version": "0.1.9",
+  "name": "@soulsandz/px2remplus-loader",
+  "version": "1.0.1",
   "description": "css post loader for px2remplus",
   "main": "index.js",
   "scripts": {
